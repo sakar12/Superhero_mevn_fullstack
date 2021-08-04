@@ -5,9 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Running Client Side
 ```
 npm run serve
+```
+
+### Running Node Server
+```
+npm run dev
 ```
 
 ### Compiles and minifies for production
